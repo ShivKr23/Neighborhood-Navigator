@@ -34,5 +34,5 @@ def predict():
     except Exception as e:
         return "Something went wrong try again!!"
     
-if __name__=='__main__':
-    app.run(debug=True,port=5001)
+# if __name__=='__main__':
+#     app.run(debug=True,port=5001)
